@@ -8,6 +8,8 @@ int main()
   cout << sizeof(b) << "\n"; // 1
   char c;
   cout << sizeof(c) << "\n"; // 1
+  unsigned char uc;
+  cout << sizeof(uc) << "\n"; // 1
   short si;
   cout << sizeof(si) << "\n"; // 2
   wchar_t wc;
